@@ -6,3 +6,15 @@ body {
   padding: 20px;
   text-align: center;
 }
+.stats {
+  margin-top: 30px;
+}
+.box {
+  background: #fff;
+  border: 1px solid #ccc;
+  margin: 10px auto;
+  padding: 15px;
+  width: 200px;
+  border-radius: 8px;
+  font-size: 18px;
+}
